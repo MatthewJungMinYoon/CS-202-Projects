@@ -1,0 +1,32 @@
+0|Mine Entrance|Here is where the actual mining began, the main shaft extends east
+to where it splits into many smaller shafts following veins of minerals or
+valueable crystals.  Cart tracks lead down into rubble, the first evidence
+of old cave-ins.|-1|1|-1|-1|
+1|A Tunnel|The tunnel of stone is smooth and straight heading deeper into the earth.
+Shelves project outward at angles, with water trickling out of some of them
+adding to the dampness in the air.|-1|2|-1|0|
+2|A Large Cavern|A wide shelf of rock overlooks a pool of water in the center of the room.
+Embeded in the walls small stones seem to glow providing a soft light
+creating a shimmer in the water falling into the pool from the darkness
+above.  Tiny waterfalls seep out of the walls cascading downward to splash
+into the pool.  The tunnel continues to the west and the east.|-1|3|-1|1|
+3|A Long Tunnel|A trickle of water spreads out in a thin fan pattern on the rock walls
+cascading down into a small pool, slowly emptying off to the east.  The
+sound of rushing water is heard further down the tunnel.|-1|4|-1|2|
+4|An Underwater Lake|A stream poors into the room filling a large lake surrounding an uplifted
+stone.  A chest resides upon the wide base of stone made out of bronze.
+High up, a large stone stalagtite glows shining light down upon the island
+of stone.  At the other end of the room, opposite the stream, the water
+continues to flow spilling out down a dark hole. A tunnel leads west and a trail leads south.|-1|-1|5|3|
+5|The Main Shaft|About halfway down the main shaft you find the level were most of the
+mining had occured.  Many smaller shafts, all caved in of course, run off in
+every direction where the ground was stripped of its hidden treasures.  The
+main shaft continues even farther down to the east though.|4|6|-1|-1|
+6|An Intersection|Several mine shafts converge to this point from above.  Most are small
+but one larger one with cart tracts comes from almost straight above and
+must be the main shaft.  It continues to here and begins to turn north.  The
+singing you thought you may have heard in other parts of the mine
+sound like that of a songbird. There are exits in every direction.|9|8|7|5|
+7|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the north.|6|-1|-1|-1|
+8|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the west.|-1|-1|-1|6|
+9|A Dead End|The tunnel comes to an abrupt stop. The only exit is to the south.|-1|-1|6|-1|
