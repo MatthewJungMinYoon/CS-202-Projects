@@ -1,0 +1,4 @@
+0|Red Room|You are in a mysterious dark red room. All of the walls are faintly glowing but you can't see anything of interest.
+There is an archway in the eastern wall.|-1|1|-1|-1|
+1|Blue Room|The walls here glow a deep blue. The airs smells like burning paper.
+There is an archway in the west wall.|-1|-1|-1|0|
