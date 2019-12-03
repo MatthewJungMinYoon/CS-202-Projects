@@ -1,0 +1,192 @@
+Albino Niffler,Mysteries,5,1460
+Ancient Tome,Mysteries,1,250
+Ashwinder,Mysteries,4,1608
+Cerberus,Mysteries,5,1110
+Daily Prophet,Mysteries,2,584
+Hermione Granger,Mysteries,5,575
+Kingsley Shacklebolt,Mysteries,4,464
+Ministry Memo,Mysteries,1,202
+Note Page,Mysteries,1,107
+Young Acromantula,Mysteries,4,1620
+Antipodean Opaleye,Oddities,1,214
+Antipodean Opaleye Egg,Oddities,1,118
+Augurey,Oddities,1,429
+Augurey,Oddities,1,327
+Azkaban Escapee,Oddities,1,414
+Brown Centaur,Oddities,1,375
+Centaur Bow,Oddities,1,230
+Chinese Fireball,Oddities,1,200
+Chinese Fireball Egg,Oddities,1,342
+Common Welsh Green,Oddities,1,116
+Common Welsh Green Egg,Oddities,1,216
+Dementor,Oddities,1,116
+Doxy,Oddities,1,101
+Erkling,Oddities,1,303
+Erkling,Oddities,1,105
+Gnome,Oddities,1,101
+Horned Serpent,Oddities,1,236
+Horned Serpent Egg,Oddities,1,218
+Imp,Oddities,1,266
+Leprechaun,Oddities,1,108
+Lethifold,Oddities,1,324
+Nagnok,Oddities,1,315
+Peruvian Vipertooth,Oddities,1,202
+Peruvian Vipertooth Egg,Oddities,1,303
+Pixie,Oddities,1,354
+Pukwudgie,Oddities,1,254
+Sphinx,Oddities,1,381
+Vampire,Oddities,1,270
+Werewolf,Oddities,1,256
+Baby Mandrake,Wonders of the Wizarding World,3,315
+Crystal Ball,Wonders of the Wizarding World,2,852
+Dirigible Plum,Wonders of the Wizarding World,2,544
+Foe-Glass,Wonders of the Wizarding World,3,864
+Giant's Helm,Wonders of the Wizarding World,2,408
+Grawp,Wonders of the Wizarding World,3,672
+Hogwarts Express Engine,Wonders of the Wizarding World,3,372
+Howler,Wonders of the Wizarding World,2,636
+Music Box,Wonders of the Wizarding World,2,264
+Platform 9 3/4 Sign,Wonders of the Wizarding World,3,1170
+Quibbler,Wonders of the Wizarding World,2,630
+Self-Playing Harp,Wonders of the Wizarding World,3,762
+The Knight Bus,Wonders of the Wizarding World,3,636
+Wanted Poster of Sirius Black,Wonders of the Wizarding World,2,264
+Weasleys' Flying Car,Wonders of the Wizarding World,2,888
+Whomping Willow,Wonders of the Wizarding World,3,666
+Cursed Opal Necklace,Mysterious Artefacts,1,119
+Decoy Detonators,Mysterious Artefacts,1,336
+Dumbledore's Memory Cabinet,Mysterious Artefacts,3,1044
+Hagrid's Umbrella,Mysterious Artefacts,1,327
+Hermione's Time-Turner,Mysterious Artefacts,2,786
+Mad-Eye Moody's Eye,Mysterious Artefacts,1,204
+Marauder's Map,Mysterious Artefacts,1,411
+Mirror of Erised,Mysterious Artefacts,1,150
+Omnioculars,Mysterious Artefacts,1,248
+Pensieve,Mysterious Artefacts,1,244
+Philosopher's Stone,Mysterious Artefacts,2,618
+Quill of Acceptance and Book of Admittance,Mysterious Artefacts,1,206
+Remembrall,Mysterious Artefacts,1,268
+Sirius' Flying Motorbike,Mysterious Artefacts,3,1152
+Sword of Gryffindor,Mysterious Artefacts,1,260
+Weasley Clock,Mysterious Artefacts,1,252
+Beater's Bat,Magical Games and Sports,1,268
+Bludger,Magical Games and Sports,1,135
+Chudley Cannons Player,Magical Games and Sports,1,414
+Goblet of Fire,Magical Games and Sports,1,236
+Gobstone Set,Magical Games and Sports,1,228
+Golden Snitch,Magical Games and Sports,3,393
+Gryffindor Quidditch Banner,Magical Games and Sports,1,228
+House of Exploding Snap Cards,Magical Games and Sports,2,432
+Magical Megaphone,Magical Games and Sports,1,202
+Nimbus 2000,Magical Games and Sports,1,142
+Quaffle,Magical Games and Sports,1,224
+Quidditch Captain Harry Potter,Magical Games and Sports,1,387
+Quidditch Fan Hermione Granger,Magical Games and Sports,1,348
+Quidditch Fan Luna Lovegood,Magical Games and Sports,1,145
+Quidditch Fan Neville Longbottom,Magical Games and Sports,1,411
+Quidditch Keeper Ron,Magical Games and Sports,1,125
+Quidditch Pitch Stands,Magical Games and Sports,1,441
+Quidditch Through the Ages Book,Magical Games and Sports,1,240
+Quidditch Tryouts Seamus Finnigan,Magical Games and Sports,2,804
+Quidditch World Cup,Magical Games and Sports,1,300
+Triwizard Cup,Magical Games and Sports,1,115
+Baby Niffler,Magizoology,1,282
+Billywig,Magizoology,1,100
+Branch of Bowtruckles,Magizoology,1,393
+Demiguise,Magizoology,1,282
+Erumpent,Magizoology,1,238
+Mooncalf,Magizoology,1,148
+Mountain Troll,Magizoology,2,528
+Murtlap,Magizoology,2,284
+Newt Scamander,Magizoology,2,230
+Niffler,Magizoology,1,123
+Occamy,Magizoology,2,200
+Occamy Eggs,Magizoology,1,280
+Pickett,Magizoology,2,642
+Thunderbird,Magizoology,2,768
+Unicorn,Magizoology,2,512
+Young Graphorn,Magizoology,1,417
+Arthur Weasley,Ministry of Magic,2,260
+Bogrod,Ministry of Magic,2,588
+Newt Scamander,Ministry of Magic,2,786
+Daily Prophet Stand,Ministry of Magic,2,744
+Flock of Interdepartmental Memos,Ministry of Magic,2,464
+Fountain of Magical Brethren,Ministry of Magic,2,254
+Mad-Eye Moody,Ministry of Magic,2,666
+Ministry Administrator,Ministry of Magic,2,822
+Ministry Official,Ministry of Magic,2,248
+Ministry Visitor's Entrance,Ministry of Magic,4,1716
+Nymphadora Tonks,Ministry of Magic,2,416
+Prophecy Record,Ministry of Magic,2,756
+Tank of Brains,Ministry of Magic,2,294
+The Veil,Ministry of Magic,2,606
+Wizengamot Accusation Chair,Ministry of Magic,2,520
+Albus Dumbledore,Legends of Hogwarts,5,1290
+Dumbledore's Army Dueling Dummy,Legends of Hogwarts,4,872
+Filch and Mrs. Norris,Legends of Hogwarts,2,260
+Flying Key,Legends of Hogwarts,2,436
+Half-Blood Prince's Copy of Advanced Potion Making,Legends of Hogwarts,5,605
+Hedwig,Legends of Hogwarts,2,726
+Professor Snape,Legends of Hogwarts,2,696
+Sirius Black,Legends of Hogwarts,2,272
+Weasley Fireworks,Legends of Hogwarts,2,600
+Wizard Chess Queen,Legends of Hogwarts,2,648
+Young Ginny Weasley,Legends of Hogwarts,2,828
+Young Harry Potter,Legends of Hogwarts,2,248
+Young Hermione Granger,Legends of Hogwarts,2,496
+Young Luna Lovegood,Legends of Hogwarts,2,524
+Young Neville Longbottom,Legends of Hogwarts,2,524
+Young Ron Weasley,Legends of Hogwarts,2,816
+Boggart Cabinet,Hogwarts School,2,780
+Fawkes,Hogwarts School,2,228
+Gryffindor Student,Hogwarts School,2,282
+Hogwarts House Cup,Hogwarts School,2,222
+House Hourglasses,Hogwarts School,2,584
+Hufflepuff Student,Hogwarts School,2,540
+Moaning Myrtle,Hogwarts School,2,600
+Owl Lecturn,Hogwarts School,2,208
+Peeves,Hogwarts School,2,476
+Pomona Sprout,Hogwarts School,2,256
+Portrait of Albus Dumbledore,Hogwarts School,2,520
+Portrait of Godric Gryffindor,Hogwarts School,2,702
+Portrait of Helga Hufflepuff,Hogwarts School,2,256
+Portrait of Rowena Ravenclaw,Hogwarts School,2,236
+Portrait of Salazar Slytherin,Hogwarts School,2,702
+Professor Flitwick,Hogwarts School,2,580
+Professor McGonagall,Hogwarts School,2,282
+Ravenclaw Student,Hogwarts School,2,436
+Slytherin Student,Hogwarts School,2,228
+Sorting Hat,Hogwarts School,2,552
+Wild Boar,Hogwarts School,2,226
+Abraxan Winged Horse,Care of Magical Creatures,4,564
+Acromantula Eggs,Care of Magical Creatures,4,1008
+Baby Hippogriff,Care of Magical Creatures,4,1644
+Baby Norwegian Ridgeback,Care of Magical Creatures,4,424
+Baby Unicorn,Care of Magical Creatures,4,516
+Blast-Ended Skrewt,Care of Magical Creatures,4,460
+Buckbeak,Care of Magical Creatures,4,1356
+Dragon Egg,Care of Magical Creatures,4,544
+Firenze,Care of Magical Creatures,4,1308
+Flobberworm,Care of Magical Creatures,4,1296
+Hagrid's Hut,Care of Magical Creatures,3,438
+Hippogriff,Care of Magical Creatures,4,576
+Kneazle,Care of Magical Creatures,4,416
+Monster Book of Monsters,Care of Magical Creatures,4,1040
+Puffskein,Care of Magical Creatures,4,1692
+Rubeus Hagrid,Care of Magical Creatures,5,620
+Flesh-Eating Slugs,Dark Arts,2,672
+Hag,Dark Arts,2,726
+Hand of Glory,Dark Arts,2,296
+Knockturn Alley Sign,Dark Arts,2,690
+Magic is Might Statue,Dark Arts,2,210
+Magick Moste Evile,Dark Arts,2,216
+Ministry Executioner,Dark Arts,2,236
+Percival Graves,Dark Arts,2,460
+Portrait of Bellatrix Lestrange,Dark Arts,2,200
+Portrait of Voldemort,Dark Arts,2,834
+Swooping Evil,Dark Arts,2,648
+Thestral,Dark Arts,2,432
+Tom Riddle,Dark Arts,2,218
+Tom Riddle Sr.'s Gravestone,Dark Arts,3,810
+Vanishing Cabinet,Dark Arts,2,244
+Wanted Poster of an Azkaban Escapee,Dark Arts,2,564
